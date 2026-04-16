@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header" width="100%"/>
+<img src="https://raw.githubusercontent.com/Devabhishek085/Devabhishek085/93c25c1bf48cd32255a2575ef0d4bc442a1abfc4/MyImage.png" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 

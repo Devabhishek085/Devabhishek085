@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Abhishek%20Pal&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Abhishek Pal</h1>
 
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects;React+Developer;UI+Lover;Always+Learning&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects;React+Developer;UI+Lover;Always+Learning&center=true&width=500&height=45">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
 
 ## 🧠 About Me
 
@@ -22,7 +22,7 @@
 * 📈 Learning, building, improving — everyday
 * ⚡ I build things that look good & work better
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 🌐 Connect With Me
 
@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/abhishek-pal-9a2bb8328/">💼 LinkedIn</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 🚀 Tech Stack
 
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nodejs,python,django,express,mysql,firebase,tailwind,git,github" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devabhishek085&theme=tokyonight" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## 🧠 Currently Learning
 
@@ -57,13 +57,13 @@
 * 🌐 Backend Development (Node.js + APIs)
 * 🎨 UI/UX Design
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 ## ⚡ Fun Fact
 
 I love building aesthetic UIs more than fixing bugs 😄
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
 <p align="center">
   ⭐️ From <b>Abhishek Pal</b>

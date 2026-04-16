@@ -57,11 +57,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
 
-![snake gif](https://github.com/Devabhishek085/Devabhishek085/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## ⚡ Fun Fact
 

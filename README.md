@@ -8,10 +8,10 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hi 👋 I'm Abhishek Pal
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hi 👋 I'm Abhishek Pal
  
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
  
 🎯 **Building methods & unique web experiences**  
 💡 **Turning ideas into real-world projects**  
@@ -19,9 +19,8 @@
 📖 **I identify bugs, solve problems — everyday**  
 ❤️ **I love building aesthetics! Like never hang loop** 🔁
  
----
  
-## <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Connect With Me
+  <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Connect With Me
  
 <div align="center">
   <a href="mailto:palabhishek085@@gmail.com">
@@ -35,20 +34,20 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
----
+
  
-## <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack
+ <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack
  
 <div align="center">
-### 💻 Languages
+ 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css" />
-### 🎨 Frontend
+ 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite" />
-### ⚙️ Backend & Database
+ ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,sqlite" />
-### 🛠️ Tools & Technologies
+ 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm,firebase" />
-### ☁️ Cloud & Others
+ ☁️ Cloud & Others
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare" />
 </div>
 <br>
@@ -57,7 +56,7 @@
 </div>
 ---
  
-## 📊 GitHub Stats
+  📊 GitHub Stats
  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
@@ -67,12 +66,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
----
+
  
-## 🎯 Currently Learning
+ 🎯 Currently Learning
  
 <div align="center">
-```mermaid
+<!-- ```mermaid
 mindmap
   root((Learning Path))
     Advanced React
@@ -88,8 +87,8 @@ mindmap
     UI/UX Design
       Figma
       Design Systems
-      Animations
-```
+      Animations -->
+<!-- ``` -->
  
 </div>
 <br>
@@ -102,10 +101,10 @@ mindmap
 </div>
 ---
  
-## 📫 How to Reach Me
+📫 How to Reach Me
  
 <div align="center">
-**"The best way to predict the future is to create it."**
+"The best way to predict the future is to create it."
  
 Got a project in mind? Let's collaborate!
  
@@ -115,11 +114,7 @@ Got a project in mind? Let's collaborate!
 </div>
 ---
  
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-</div>
-<div align="center">
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+ 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
  
 </div>
 <div align="center">

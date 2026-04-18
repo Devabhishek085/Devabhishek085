@@ -1,165 +1,77 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Pal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Building+Amazing+Experiences+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hi 👋 I'm Abhishek Pal
-
-```javascript
-const abhishek = {
-    role: "Frontend Developer",
-    location: "India 🇮🇳",
-    passions: ["React Enthusiast", "Problem Solver"],
-    currentFocus: "Building methods & unique web experiences",
-    learning: ["Advanced React", "Backend Development"],
-    funFact: "I love building aesthetics! Like never hang loop 🔁",
-    motto: "Turning ideas into real-world projects",
-    lifePhilosophy: "Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."
-};
-```
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
-
-```yaml
-name: Abhishek Pal
-located_in: India
-current_job: Frontend Developer
-education:
-  [
-    "Self-Taught Developer",
-    "Computer Science Enthusiast"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "React Ecosystem",
-    "UI/UX Design",
-    "Backend Development"
-  ]
-technical_background:
-  [
-    "Frontend Developer",
-    "React Specialist",
-    "Problem Solver"
-  ]
-```
-
+ 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
+ 
 🎯 **Building methods & unique web experiences**  
 💡 **Turning ideas into real-world projects**  
 🚀 **Open for collaboration**  
 📖 **I identify bugs, solve problems — everyday**  
 ❤️ **I love building aesthetics! Like never hang loop** 🔁
-
+ 
 ---
-
+ 
 ## <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Connect With Me
-
+ 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:palabhishek085@@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-pal-9a2bb8328/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
 ---
-
+ 
 ## <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack
-
+ 
 <div align="center">
-
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css" />
-
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite" />
-
 ### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,sqlite" />
-
 ### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm,firebase" />
-
 ### ☁️ Cloud & Others
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare" />
-
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
-
 ---
-
+ 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&custom_title=Abhishek's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
+ 
 ## 🎯 Currently Learning
-
+ 
 <div align="center">
-
 ```mermaid
 mindmap
   root((Learning Path))
@@ -178,11 +90,9 @@ mindmap
       Design Systems
       Animations
 ```
-
+ 
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -190,58 +100,28 @@ mindmap
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 </div>
-
 ---
-
-## 💭 Fun Fact
-
-<div align="center">
-  <img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20love%20building%20aesthetics!%20Like%20never%20hang%20loop%20%F0%9F%94%81&author=Abhishek%20Pal" alt="Fun Fact"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
----
-
+ 
 ## 📫 How to Reach Me
-
+ 
 <div align="center">
-
 **"The best way to predict the future is to create it."**
-
+ 
 Got a project in mind? Let's collaborate!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://abhishek-pal-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palabhishek085@gmail.com)
+ 
 </div>
-
 ---
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon...
-<!-- BLOG-POST-LIST:END -->
-
----
-
+ 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 </div>
-
 <div align="center">
-
 ### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
+ 
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>

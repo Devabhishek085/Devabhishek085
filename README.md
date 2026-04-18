@@ -71,7 +71,7 @@
  🎯 Currently Learning
  
 <div align="center">
-<!-- ```mermaid
+```mermaid
 mindmap
   root((Learning Path))
     Advanced React
@@ -88,7 +88,7 @@ mindmap
       Figma
       Design Systems
       Animations -->
-<!-- ``` -->
+ ```
  
 </div>
 <br>

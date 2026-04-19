@@ -54,9 +54,8 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
----
+
  
-  📊 GitHub Stats
  
  📊 GitHub Stats
 
@@ -88,9 +87,7 @@ mindmap
       Figma
       Design Systems
       Animations -->
- ```
-  -->
-</div> -->
+</div> 
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -99,7 +96,6 @@ mindmap
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 </div>
----
  
 📫 How to Reach Me
  
@@ -112,7 +108,6 @@ Got a project in mind? Let's collaborate!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palabhishek085@gmail.com)
  
 </div>
----
  
  💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
  

@@ -39,15 +39,10 @@
  <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack
  
 <div align="center">
- 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css" />
- 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite" />
- ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,sqlite" />
- 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm,firebase" />
- ☁️ Cloud & Others
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare" />
 </div>
 <br>

@@ -1,111 +1,117 @@
-# <div align="center">👋 Hi, I'm Abhishek Pal</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek%20Pal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
+</div>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hi 👋 I'm Abhishek Pal
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
+ 
+🎯 **Building methods & unique web experiences**  
+💡 **Turning ideas into real-world projects**  
+🚀 **Open for collaboration**  
+📖 **I identify bugs, solve problems — everyday**  
+❤️ **I love building aesthetics! Like never hang loop** 🔁
+ 
+ 
+  <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Connect With Me
  
 <div align="center">
-  
- 🚀 Frontend Developer | UI/UX Enthusiast | Creative Coder
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Beautiful+Interfaces;Creating+Seamless+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <a href="mailto:palabhishek085@@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-pal-9a2bb8328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
----
- 
-💫 About Me
- 
-```typescript
-const abhishek = {
-    location: "India 🇮🇳",
-    role: "Frontend Developer",
-    passions: ["Clean Code", "Pixel Perfect UI", "User Experience"],
-    currentlyLearning: ["Next.js 15", "React 19", "Framer Motion"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
- 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-- 🔭 I'm currently working on **exciting web projects**
-- 🌱 Learning advanced **React patterns** and **animations**
-- 💬 Ask me about **React, JavaScript, CSS**
-- 📫 Reach me: **abhishekpal.rns@gmail.com**
-- ⚡ Building responsive & interactive user interfaces
-<br clear="right"/>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
  
-## 🛠️ Tech Stack
+ <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack
  
 <div align="center">
  💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-  ⚡ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-</p>
- 🎨 Styling & Design
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI"/>
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
-🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css" />
+ 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,vite" />
+ ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgresql,sqlite" />
+ 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm,firebase" />
+ ☁️ Cloud & Others
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare" />
 </div>
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</div>
+
+ 
  
  📊 GitHub Stats
- 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devabhishek085&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devabhishek085&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devabhishek085&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devabhishek085&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devabhishek085&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
 
  
- 🏆 GitHub Trophies
+ 🎯 Currently Learning
  
+ <div align="center">
+<!-- ```mermaid
+mindmap
+  root((Learning Path))
+    Advanced React
+      React Hooks
+      Performance Optimization
+      State Management
+      Custom Hooks
+    Backend Development
+      Node.js & Express
+      REST APIs
+      Database Design
+      Authentication
+    UI/UX Design
+      Figma
+      Design Systems
+      Animations -->
+</div> 
+<br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devabhishek085&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
 </div>
-
  
- 
-🌐 Connect With Me
+📫 How to Reach Me
  
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishekpal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-pal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekpal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekpal.rns@gmail.com)
+"The best way to predict the future is to create it."
+ 
+Got a project in mind? Let's collaborate!
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://abhishek-pal-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palabhishek085@gmail.com)
  
 </div>
-
  
+ 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+ 
+</div>
 <div align="center">
-  
-### 💭 Dev Quote
- 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
- 
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-### ⭐️ From [Abhishek Pal](https://github.com/Devabhishek085)
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>

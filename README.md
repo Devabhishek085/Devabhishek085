@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> About Me
  
-🎯 **Building methods & unique web experiences**  
+🎯 **Building methods & unique web experiences
 💡 **Turning ideas into real-world projects**  
 🚀 **Open for collaboration**  
 📖 **I identify bugs, solve problems — everyday**  

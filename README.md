@@ -33,7 +33,7 @@
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 
  
  <img src="https://media2.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Tech Stack

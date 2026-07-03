@@ -4,11 +4,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devabhishek085&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-</div>
-
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -60,8 +55,8 @@
  📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Devabhishek085&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=Devabhishek085&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devabhishek085&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devabhishek085&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00ffff&height=2" width="100%"/>
@@ -69,14 +64,25 @@
  
  🎯 Currently Learning
  
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=500&lines=Advanced+React+Patterns+%E2%9A%9B%EF%B8%8F;React+Hooks+%26+Custom+Hooks;Performance+Optimization;State+Management+with+Redux" alt="Currently Learning" />
-</div>
-
+ <div align="center">
+<!-- ```mermaid
+mindmap
+  root((Learning Path))
+    Advanced React
+      React Hooks
+      Performance Optimization
+      State Management
+      Custom Hooks
+    Backend Development
+      Node.js & Express
+      REST APIs
+      Database Design
+      Authentication
+    UI/UX Design
+      Figma
+      Design Systems
+      Animations -->
+</div> 
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">

@@ -26,7 +26,7 @@
 📖 **I identify bugs, solve problems — everyday**   
 ❤️ **I love building aesthetics! Like never hang loop** 🔁
 
-
+</div>
 
 <img src="https://media2.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g6i890urnjyuhd3z2wr3i" width="30px"> Connect With Me
 

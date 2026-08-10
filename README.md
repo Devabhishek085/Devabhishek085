@@ -20,11 +20,11 @@
 
 <div align="center">
 
-🎯 **Building methods & unique web experiences**  
-💡 **Turning ideas into real-world projects**  
-🚀 **Open for collaboration**  
-📖 **I identify bugs, solve problems — everyday**   
-❤️ **I love building aesthetics! Like never hang loop** 🔁
+ **Building methods & unique web experiences**  
+ **Turning ideas into real-world projects**  
+ **Open for collaboration**  
+ **I identify bugs, solve problems — everyday**   
+ **I love building aesthetics! Like never hang loop** 🔁
 
 </div>
 

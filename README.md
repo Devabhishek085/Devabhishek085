@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devabhishek085&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</div>
+
 <br>
 
 <div align="center">
